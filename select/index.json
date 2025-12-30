@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "The 1",
+  "base_artist": "muque",
+  "createdAt": "2025-12-30T02:16:34.601729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow The Man Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Blow_The_Man_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/02_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bonny Ship the Diamond",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/03_Bonny_Ship_the_Diamond_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crossing The Bar",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/04_Crossing_The_Bar_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daughter of the Sea",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/05_Daughter_of_the_Sea_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daughter of the Sea (Warbringers: Jaina)",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/06_Daughter_of_the_Sea_(Warbringers__Jaina)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Enemy (From the series \"Arcane League of Legends\")",
+      "artist": "Imagine Dragons feat. JID, Arcane & League of Legends",
+      "has_synced": true,
+      "path": "select/07_Enemy_(From_the_series__Arcane_League_of_Legends_)_Imagine_Dragons_feat._JID,_Arcane_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Enemy (from the series Arcane League of Legends)",
+      "artist": "Imagine Dragons, JID & League of Legends",
+      "has_synced": true,
+      "path": "select/08_Enemy_(from_the_series_Arcane_League_of_Legends)_Imagine_Dragons,_JID_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hammer And The Anvil",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/09_Hammer_And_The_Anvil_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On the Railroad",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/10_On_the_Railroad_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/11_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Roll the Old Chariot Along",
+      "artist": "David Coffin",
+      "has_synced": true,
+      "path": "select/12_Roll_the_Old_Chariot_Along_David_Coffin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/13_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/14_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The 1",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_The_1_muque.txt"
+    }
+  ]
+}
